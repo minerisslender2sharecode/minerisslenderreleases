@@ -1,4 +1,4 @@
-1. [NightClub System ? | Manage your business ! ?](https://pirates.gg/showthread.php?tid=76)
+1. [ NightClub System ? | Manage your business! ](https://pirates.gg/showthread.php?tid=76)
 2. [The Defibrillator - A thing that every medic needs!](https://pirates.gg/showthread.php?tid=78)
 3. [DarkRP Chop Shop](https://pirates.gg/showthread.php?tid=80)
 4. [3D Escape Menu](https://pirates.gg/showthread.php?tid=81)
@@ -21,6 +21,7 @@
 21. [Zero´s PumpkinNight ? (Halloween Script)](https://pirates.gg/showthread.php?tid=141)
 22. [Proxys](https://pirates.gg/showthread.php?tid=142)
 23. [? Billy's Logs (bLogs) [Logging system]](https://pirates.gg/showthread.php?tid=143)
+24. [Zero´s CoinPusher 💲 (Casino Script)](https://pirates.gg/showthread.php?tid=144)
 
 
 
