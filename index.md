@@ -25,6 +25,8 @@
 23. [? Billy's Logs (bLogs) [Logging system]](https://pirates.gg/showthread.php?tid=143)
 24. [Zero´s CoinPusher 💲 (Casino Script)](https://pirates.gg/showthread.php?tid=144)
 25. [Zero´s Grow OP 🌱 (Weed Script)](https://pirates.gg/showthread.php?tid=146)
+26. [charSyst - Character system for your RP server](https://pirates.gg/showthread.php?tid=147)
+
 
 
 
